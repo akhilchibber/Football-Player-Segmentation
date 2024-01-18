@@ -1,6 +1,6 @@
 # Deep Learning based Football Player Segmentation
 <p align="center">
-  <img src="https://github.com/akhilchibber/Football-Player-Segmentation/blob/main/Football-Player-Segmentation.png?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Football-Player-Segmentation/blob/main/Football_Player_Segmentation.png?raw=true" alt="earthml Logo">
 </p>
 
 ## Dataset
